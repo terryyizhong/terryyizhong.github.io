@@ -1,2 +1,2 @@
 
-I work at Tencent AI Lab, AI-Generated Content (AIGC) Center as a research scientist now in Shenzhen, doing some speech-related applied research. My research interest includes Speech Synthesis, Music Generation and other computer audition topics.
+I work at Tencent AI Lab, AI-Generated Content (AIGC) Center as a senior research engineer now, doing some speech-related applied research. My research interest includes Speech Synthesis, Music Generation and other computer audition topics.
