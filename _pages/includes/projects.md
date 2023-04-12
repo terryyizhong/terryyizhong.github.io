@@ -1,8 +1,6 @@
 
 # 📝 Selected Projects 
-## 🎙 Speech Synthesis
-
-
+## 🎙 
 
 <div class='paper-box'>
 <div class='paper-box-text' markdown="1">
