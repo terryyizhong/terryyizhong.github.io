@@ -13,7 +13,7 @@
 **Contribution**:
 - EE-TTS can identify appropriate emphasis positions from text and synthesize expressive speech with emphasis and linguistic information.
 - This work outperforms baseline with expressiveness-MOS improvements from 3.76 to 4.25 and naturalness-MOS from 3.67 to 4.34.
-- EE-TTS is used to build AI playmate services with the team of the world's most-played mobile MOBA game [Honor of Kings](https://www.honorofkings.com/global-en/) (DAU 100+ million), and is now in beta testing.
+- EE-TTS is used to build AI playmate services for the world's most-played mobile MOBA game [Honor of Kings](https://www.honorofkings.com/global-en/) (DAU 100+ million), and is now in beta testing.
 
 </div>
 </div>
