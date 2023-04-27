@@ -8,8 +8,7 @@
 <div class='paper-box-text' markdown="1">
 
 [EE-TTS: Emphatic Expressive TTS with Linguistic Information](./docs/EE_TTS__Emphatic_Expressive_TTS_with_Linguistic_Information.pdf) \\
-<font size=4>**Yi Zhong**, Chen Zhang, Xule Liu, Chenxi Sun, Weishan Deng, Haifeng Hu, Zhongqian Sun. </font>  
-[**[Demo Page]**](https://expressive-emphatic-ttsdemo.github.io/) 
+**Yi Zhong**, <font size=4>Chen Zhang, Xule Liu, Chenxi Sun, Weishan Deng, Haifeng Hu, Zhongqian Sun.</font> [**[Demo Page]**](https://expressive-emphatic-ttsdemo.github.io/) 
 
 **Contribution**:
 - EE-TTS can identify appropriate emphasis positions from text and synthesize expressive speech with emphasis and linguistic information.
