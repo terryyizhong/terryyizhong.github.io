@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yi Zhong (Terry)"
+title                    : "Terry Yi Zhong"
 description              : "Senior research engineer. Focusing on speech and music."
 repository               : "terryyizhong/terryyizhong.github.io"
 google_scholar_stats_use_cdn : false
@@ -21,7 +21,7 @@ baidu_site_verification  : code-ZxFK3f4pfb
 
 # Site Author
 author:
-  name             : "Yi Zhong (Terry)"
+  name             : "Terry Yi Zhong"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Tencent AI Lab"
   location         : "ShenZhen, China"
