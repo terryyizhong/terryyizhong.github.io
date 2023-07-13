@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Terry Yi Zhong"
-description              : "Senior research engineer. Focusing on speech and music."
+description              : "Visiting Researcher. Focusing on speech and music."
 repository               : "terryyizhong/terryyizhong.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -23,7 +23,7 @@ baidu_site_verification  : code-ZxFK3f4pfb
 author:
   name             : "Terry Yi Zhong"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Tencent AI Lab"
+  bio              : "AIR Lab"
   location         : "ShenZhen, China"
   employer         :
   pubmed           : 
