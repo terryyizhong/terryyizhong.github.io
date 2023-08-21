@@ -4,6 +4,7 @@ I used to be a senior researcher at Tencent AI Lab, AI-Generated Content (AIGC) 
 
 My research interest include but not limit to Speech Synthesis, Spoken Dialogue System,  Music Generation and Transcription.
 <br/>
+
 Email: yi.zhong@rutgers.edu
 
 Linkedin: www.linkedin.com/in/yi-zhong-183963117
