@@ -6,7 +6,7 @@ My research interest include but not limit to Speech Synthesis, Spoken Dialogue 
 
 I am now active seeking PhD opportunity this or next year. Feel free to ask a full CV through email!
 
-Email: yi.zhong at rutgers.edu
+Email: yi.zhong@rutgers.edu
 
 Linkedin: www.linkedin.com/in/yi-zhong-183963117
 
