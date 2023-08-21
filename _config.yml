@@ -21,14 +21,14 @@ baidu_site_verification  : code-ZxFK3f4pfb
 
 # Site Author
 author:
-  name             : "Terry Yi Zhong"
+  name             : "Active seeking PhD opportunity this or next year. Feel free to ask a full CV through email! (yi.zhong@rutgers.edu)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Active seeking PhD opportunity this or next year. Feel free to ask a full CV through email!"
-  location         : "ShenZhen, China"
+  bio              : "Terry Yi Zhong"
+  location         : "Rochester, NY, USA"
   employer         :
   pubmed           : 
   googlescholar    : #"https://scholar.google.com/citations?user=4FA6C0AAAAAJ"
-  email            : "yi.zhong@rutgers.edu"
+  email            : #"yi.zhong@rutgers.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -43,7 +43,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "yi-zhong-183963117"
+  linkedin         : #"yi-zhong-183963117"
   dblp             : #"https://dblp.org/pid/75/6568-6.html"
   orcid            : #"https://orcid.org/0000-0002-9160-3848"
   pinterest        :
