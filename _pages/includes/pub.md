@@ -7,7 +7,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">INTERSPEECH 2023</div><img src='images/EETTS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[EE-TTS: Emphatic Expressive TTS with Linguistic Information](https://arxiv.org/abs/2305.12107) Interspeech2023(Present at Thu-P1.18 10:00–12:00)\\
+[EE-TTS: Emphatic Expressive TTS with Linguistic Information](https://arxiv.org/abs/2305.12107) Interspeech2023(Present at Thu-P1.18 10:00–12:00) \\
 **Yi Zhong**, <font size=2>Chen Zhang, Xule Liu, Chenxi Sun, Weishan Deng, Haifeng Hu, Zhongqian Sun.</font> [**[Demo Page]**](https://expressive-emphatic-ttsdemo.github.io/) 
 
 **Contribution**:
