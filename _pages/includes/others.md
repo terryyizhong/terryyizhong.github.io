@@ -1,6 +1,6 @@
-[//]: 🔥 News
-[//]: - 2023.05: One paper is accepted by INTERSPEECH 2023
-[//]: - 2023.04: Become a reviewer of ISMIR 2023
+[//]:🔥 News
+[//]:- 2023.05: One paper is accepted by INTERSPEECH 2023
+[//]:- 2023.04: Become a reviewer of ISMIR 2023
 # 📖 Educations
 - *2016 - 2018*, M.Sc in Computer Science, Rutgers University, NJ, USA.
 - *2011 - 2015*, B.Sc in Information and Computing Science, Beijing Jiaotong University, Beijing, China.
