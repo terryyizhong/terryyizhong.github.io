@@ -1,5 +1,11 @@
 I am now a visiting researcher at the [Audio Information Research(AIR) Lab](https://labsites.rochester.edu/air/) of University of Rochester, advised by Professor [Zhiyao Duan](https://hajim.rochester.edu/ece/sites/zduan/).
 
-I used to be a senior research engineer at Tencent AI Lab, AI-Generated Content (AIGC) Center for speech synthesis applied research.
+I used to be a senior researcher at Tencent AI Lab, AI-Generated Content (AIGC) Center for speech synthesis applied research.
 
-My research interest includes Speech Synthesis, Music Generation and Transcription, and other Computer Audition topics.
+My research interest include but not limit to Speech Synthesis, Spoken Dialogue System,  Music Generation and Transcription.
+
+I am now active seeking PhD opportunity this or next year. Feel free to ask a full CV through email!
+
+Email: yi.zhong@rutgers.edu
+Linkedin: https://www.linkedin.com/in/yi-zhong-183963117/
+Webpage: https://terryyizhong.github.io/
