@@ -3,7 +3,7 @@ I am now a visiting researcher at the [Audio Information Research(AIR) Lab](http
 I used to be a senior researcher at Tencent AI Lab, AI-Generated Content (AIGC) Center for speech synthesis applied research.
 
 My research interest include but not limit to Speech Synthesis, Spoken Dialogue System,  Music Generation and Transcription.
-
+<br/>
 <br/>
 
 I am now active seeking PhD opportunity this or next year. Feel free to ask a full CV through email!
