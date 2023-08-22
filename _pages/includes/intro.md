@@ -5,6 +5,6 @@ I used to be a senior researcher at Tencent AI Lab, AI-Generated Content (AIGC) 
 My research interest include but not limit to Speech Synthesis, Spoken Dialogue System,  Music Generation and Transcription.
 <br/>
 
-Linkedin: www.linkedin.com/in/yi-zhong-183963117
-
-Webpage: terryyizhong.github.io
+<br/>
+ 
+Active seeking PhD opportunity this or next year. Feel free to ask a full CV through email(at left)! 
