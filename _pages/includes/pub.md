@@ -13,3 +13,8 @@
 
 </div>
 </div>
+
+
+##
+- ``ICASSP 2024 (Under Review)`` [SynthTab: Leveraging Synthesized Data for Guitar Tablature Transcription](https://arxiv.org/abs/2309.09085), **Yi Zhong\***, Yongyi Zang*, Yi Zhong, Frank Cwitkowitz, Zhiyao Duan
+- ``ICASSP 2024 (Under Review)`` [Music Generation based on Generative Adversarial Networks with Transformer](https://arxiv.org/abs/2309.09075), **Yi Zhong\***, Ziyi Jiang*, Ruoxue Wu, Zhenghan Chen, Xiaoxuan Liang
