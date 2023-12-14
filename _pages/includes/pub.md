@@ -1,5 +1,10 @@
 
 # 📝 Publications 
+
+
+- ``ICASSP 2024 `` [SynthTab: Leveraging Synthesized Data for Guitar Tablature Transcription](https://arxiv.org/abs/2309.09085), **Yi Zhong\***, Yongyi Zang*, Frank Cwitkowitz, Zhiyao Duan
+
+
 [comment]: <> (## 🎙 Speech Synthesis)
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">INTERSPEECH 2023</div><img src='images/EETTS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -13,6 +18,3 @@
 
 </div>
 </div>
-
-
-- ``ICASSP 2024 (Under Review)`` [SynthTab: Leveraging Synthesized Data for Guitar Tablature Transcription](https://arxiv.org/abs/2309.09085), **Yi Zhong\***, Yongyi Zang*, Frank Cwitkowitz, Zhiyao Duan
