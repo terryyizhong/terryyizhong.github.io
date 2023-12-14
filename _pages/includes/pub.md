@@ -16,5 +16,7 @@
 </div>
 </div>
 
-- ``ICASSP 2024 `` [SynthTab: Leveraging Synthesized Data for Guitar Tablature Transcription](https://arxiv.org/abs/2309.09085), **Yi Zhong\***, Yongyi Zang*, Frank Cwitkowitz, Zhiyao Duan
+<font size=5>``ICASSP 2024 `` [SynthTab: Leveraging Synthesized Data for Guitar Tablature Transcription](https://arxiv.org/abs/2309.09085),</font>
+
+**Yi Zhong\***, Yongyi Zang*, Frank Cwitkowitz, Zhiyao Duan
 
