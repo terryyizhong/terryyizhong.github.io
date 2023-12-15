@@ -4,7 +4,7 @@
 - 2023.05: One paper is accepted by INTERSPEECH 2023
 
 # 📖 Educations
-- *2016 - 2018*, M.Sc in Computer Science, Rutgers University, NJ, USA.
+- *2016 - 2018*, M.Sc in Computer Science, Rutgers University–New Brunswick, NJ, USA.
 - *2011 - 2015*, B.Sc in Information and Computing Science, Beijing Jiaotong University, Beijing, China.
 
 # 💻 Professional Experience
