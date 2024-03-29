@@ -1,5 +1,5 @@
 # 🔥 News
-- 2023.12: One paper is accepted by ICASSP 2024
+- 2023.12: One paper is accepted by ICASSP 2024 (Oral)
 - 2023.11: End my visiting at AIR LAB, University of Rochester
 - 2023.05: One paper is accepted by INTERSPEECH 2023
 
