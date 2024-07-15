@@ -18,5 +18,9 @@
 
 ``ICASSP 2024 (Oral) `` [SynthTab: Leveraging Synthesized Data for Guitar Tablature Transcription](https://arxiv.org/abs/2309.09085)
 
-Yongyi Zang*, **Yi Zhong\***, Frank Cwitkowitz, Zhiyao Duan
+Yongyi Zang*, **Yi Zhong\***, Frank Cwitkowitz, Zhiyao Duan. [**[Demo Page]**](https://synthtab.dev//)
 
+
+``INTERSPEECH 2024`` [GTR-Voice: Articulatory Phonetics Informed Controllable Expressive Speech Synthesis](https://arxiv.org/pdf/2406.10514)
+
+Zehua Kcriss Li, Meiying Melissa Chen, **Yi Zhong\**, Pinxin Liu, Zhiyao Duan. [**[Demo Page]**](https://demo.gtr-voice.com//)
