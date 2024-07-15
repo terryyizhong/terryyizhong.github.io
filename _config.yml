@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Terry Yi Zhong"
-description              : "Visiting Researcher. Focusing on speech and music."
+description              : "PhD Candidate. Focusing on speech."
 repository               : "terryyizhong/terryyizhong.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -24,11 +24,11 @@ author:
   name             : "Terry Yi Zhong"
   avatar           : "images/android-chrome-512x512.png"
   bio              : ""
-  location         : "Beijing, China"
+  location         : "Nijmegen, Netherlands"
   employer         :
   pubmed           : 
   googlescholar    : #"https://scholar.google.com/citations?user=4FA6C0AAAAAJ"
-  email            : "yi.zhong@rutgers.edu"
+  email            : "yi.zhong@ru.nl"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
