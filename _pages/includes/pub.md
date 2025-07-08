@@ -13,9 +13,6 @@
 </div>
 </div>
 
-``TSD 2025`` [RECA-PD: A Robust Explainable Cross-Attention Method for Speech-based Parkinson's Disease Classification]()
-
-**Terry Yi Zhong**, Cristian Tejedor-Garcia,  Martha Larson, Bastiaan R. Bloem.
 
 ``INTERSPEECH 2025`` [Evaluating the Usefulness of Non-Diagnostic Speech Data for Developing Parkinson's Disease Classifiers](https://arxiv.org/abs/2505.18722)
 
