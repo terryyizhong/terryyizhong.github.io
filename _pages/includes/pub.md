@@ -2,7 +2,21 @@
 # 📝 Publications 
 
 
-<!-- [comment]: <> (## 🎙 Speech Synthesis) -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TSD 2025</div><img src='images/TSD-V1.2.drawio.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[RECA-PD: A Robust Explainable Cross-Attention Method for Speech-based Parkinson's Disease Classification](https://arxiv.org/abs/2507.03594) \\
+**Terry Yi Zhong**, Cristian Tejedor-Garcia,  Martha Larson, Bastiaan R. Bloem. [**[Code]**](https://github.com/terryyizhongru/RECA-PD) 
+
+**Contribution**:
+- A novel, robust, and explainable method for speech-based PD classification that delivers more clinically relevant explanations
+- Results show that RECA-PD offer a better trade-off between explainability and performance
+</div>
+</div>
+
+``TSD 2025`` [RECA-PD: A Robust Explainable Cross-Attention Method for Speech-based Parkinson's Disease Classification]()
+
+**Terry Yi Zhong**, Cristian Tejedor-Garcia,  Martha Larson, Bastiaan R. Bloem.
+
 ``INTERSPEECH 2025`` [Evaluating the Usefulness of Non-Diagnostic Speech Data for Developing Parkinson's Disease Classifiers](https://arxiv.org/abs/2505.18722)
 
 **Terry Yi Zhong**, Esther Janse, Cristian Tejedor-Garcia, Louis ten Bosch, Martha Larson.
