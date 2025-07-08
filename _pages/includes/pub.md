@@ -9,7 +9,7 @@
 
 **Contribution**:
 - A novel, robust, and explainable method for speech-based PD classification that delivers more clinically relevant explanations
-- Results show that RECA-PD offer a better trade-off between explainability and performance
+- RECA-PD offer a better trade-off between explainability and performance
 </div>
 </div>
 
