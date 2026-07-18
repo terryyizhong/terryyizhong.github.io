@@ -5,7 +5,7 @@
 
 ``INTERSPEECH 2026`` [A Benchmark for Early-stage Parkinson’s Disease Detection from Speech](https://arxiv.org/abs/2605.14066)
 
-**Terry Yi Zhong**, Cristian Tejedor-Garcia, Khiet P. Truong, Janna Maas, Louis ten Bosch, Bastiaan R. Bloem.
+**Terry Yi Zhong**, Cristian Tejedor-Garcia, Khiet P. Truong, Janna Maas, Louis ten Bosch, Bastiaan R. Bloem.  [**[Code]**](https://github.com/terryyizhongru/B-EarlyPD-Speech)
 
 
 
