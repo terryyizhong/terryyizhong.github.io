@@ -1,8 +1,8 @@
 # 🔥 News
+- 2026.05: One paper is accepted for INTERSPEECH 2026
 - 2025.06: One paper is accepted for TSD 2025
 - 2025.05: One paper is accepted for INTERSPEECH 2025
-- 2024.07: Becoming a PhD Candidate at Centre for Language Studies, Radboud University
-- 2024.05: One paper is accepted for INTERSPEECH 2024
+
 
 
 # 📖 Educations
@@ -20,7 +20,7 @@
 [//]: # (- *2017 - 2018*, *Machine Learning Engineer Intern &#40;Supervisor: [Jeremiah Zhe Liu]&#40;https://scholar.google.com/citations?user=9jrmcG4AAAAJ&hl=en/&#41;&#41;*, Learnable.ai &#40;originating from **Harvard Innovation Lab**.&#41;)
 
 # 📄Professional Service
-Review Committee: ICASSP 2024-2025, ISMIR 2023-2024, IEEE MLSP 2025
+Review Committee: Interspeecch 2026, ICASSP 2024-2026, ISMIR 2023-2024, IEEE MLSP 2025
 
 
 

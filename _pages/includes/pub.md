@@ -2,6 +2,13 @@
 # 📝 Publications 
 
 
+
+``INTERSPEECH 2026`` [A Benchmark for Early-stage Parkinson’s Disease Detection from Speech](https://arxiv.org/abs/2605.14066)
+
+**Terry Yi Zhong**, Cristian Tejedor-Garcia, Khiet P. Truong, Janna Maas, Louis ten Bosch, Bastiaan R. Bloem.
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TSD 2025</div><img src='images/TSD-V1.2.drawio.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [RECA-PD: A Robust Explainable Cross-Attention Method for Speech-based Parkinson's Disease Classification](https://arxiv.org/abs/2507.03594) \\
